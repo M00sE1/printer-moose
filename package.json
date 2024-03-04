@@ -1,0 +1,28 @@
+{
+  "name": "printer-moose",
+  "version": "1.0.0",
+  "description": "ESC/POS Printer driver for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/M00sE1/printer-moose.git"
+  },
+  "keywords": [
+    "escpos",
+    "node-printer"
+  ],
+  "author": "moose1",
+  "license": "MIT",
+  "dependencies": {
+    "bufferhelper": "^0.2.1",
+    "iconv-lite": "^0.4.24",
+    "printer": "^0.2.1"
+  },
+  "engines": {
+    "node": ">=8.x",
+    "nwjs": ">=0.31.4"
+  }
+}
