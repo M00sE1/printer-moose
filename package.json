@@ -14,7 +14,7 @@
     "escpos",
     "node-printer"
   ],
-  "author": "moose",
+  "author": "moose1",
   "license": "MIT",
   "dependencies": {
     "bufferhelper": "^0.2.1",
