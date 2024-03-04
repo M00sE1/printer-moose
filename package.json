@@ -19,7 +19,8 @@
   "dependencies": {
     "bufferhelper": "^0.2.1",
     "iconv-lite": "^0.4.24",
-    "printer": "^0.2.1"
+    "printer": "^0.2.1",
+    "bicycle-moose": "^1.0.4"
   },
   "engines": {
     "node": ">=8.x",
